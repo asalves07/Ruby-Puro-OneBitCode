@@ -1,0 +1,1 @@
+Neste Pequeno Projeto será simulado o ato de escollher e comprar um produto em um mercado.
