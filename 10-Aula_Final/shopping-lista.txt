@@ -1,8 +1,4 @@
-morango
-tomate
-palmitoarroz
-feijão
-azeite de oliva
+
 arroz
 feijão
 azeite de oliva
